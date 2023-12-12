@@ -19,3 +19,10 @@ disqusShortname = 'Wesley Bertipaglia'
   avatar = 'https://wesleybertipaglia.github.io/avatar.svg' # gravatar email or image url
   name = 'Wesley Bertipaglia'
   bio = "Hi, I'm Wesley 👋. I'm a Full stack web developer from 🇧🇷, passionate about technology and loves creating cool things."
+
+[menu]
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 10

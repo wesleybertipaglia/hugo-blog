@@ -1,11 +1,14 @@
----
-title: "Hello From Hugo"
-date: 2023-12-10T13:40:13-03:00
-tags: ["site", "blog", "hugo"]
-author: "Wesley Bertipaglia"
----
++++
+title = "Hello From Hugo"
+date = 2023-12-10T13:40:13-03:00
+tags = ["site", "blog", "hugo"]
+author = "Wesley Bertipaglia"
+description = "Lorem Ipsum Dolor Si Amet"
+weight = 10
++++
 
 # My First Dive into Hugo: A Personal Website Odyssey
+
 For years, I've dreamt of having a personal website to showcase my work, share my thoughts, and connect with others. After a long journey of exploration, I finally decided to take the plunge and build my own site using the static site generator Hugo. This blog post chronicles my first steps into the world of Hugo and shares the lessons I learned along the way.
 
 ### The Initial Enchantment

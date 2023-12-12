@@ -1,6 +1,6 @@
 ---
-title: "Portfolio"
-button: "Portfolio"
+title: "Work"
+button: "Work"
 weight: 1
 ---
 

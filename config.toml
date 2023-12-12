@@ -22,7 +22,7 @@ disqusShortname = 'Wesley Bertipaglia'
 
 [menu]
   [[menu.main]]
-    identifier = "portfolio"
-    name = "Portfolio"
-    url = "/portfolio/"
+    identifier = "work"
+    name = "Work"
+    url = "/work/"
     weight = 10

@@ -83,3 +83,10 @@ The basic folder structure of this template is as follows:
 |-- config.toml
 |-- .gitignore
 |-- README.md
+```
+
+## Contributing
+
+If you encounter issues, have suggestions for improvements, or want to contribute, feel free to open an issue or submit a pull request. Contributions are always welcome!
+
+Happy blogging!
